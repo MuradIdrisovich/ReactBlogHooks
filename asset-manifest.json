@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactBlogHooks/static/css/main.2668b83c.chunk.css",
+    "main.js": "/ReactBlogHooks/static/js/main.57561db5.chunk.js",
+    "main.js.map": "/ReactBlogHooks/static/js/main.57561db5.chunk.js.map",
+    "runtime-main.js": "/ReactBlogHooks/static/js/runtime-main.2ad3799d.js",
+    "runtime-main.js.map": "/ReactBlogHooks/static/js/runtime-main.2ad3799d.js.map",
+    "static/js/2.008b20e3.chunk.js": "/ReactBlogHooks/static/js/2.008b20e3.chunk.js",
+    "static/js/2.008b20e3.chunk.js.map": "/ReactBlogHooks/static/js/2.008b20e3.chunk.js.map",
+    "index.html": "/ReactBlogHooks/index.html",
+    "precache-manifest.c75eb1e029e4efd963d1152d147e5c0c.js": "/ReactBlogHooks/precache-manifest.c75eb1e029e4efd963d1152d147e5c0c.js",
+    "service-worker.js": "/ReactBlogHooks/service-worker.js",
+    "static/css/main.2668b83c.chunk.css.map": "/ReactBlogHooks/static/css/main.2668b83c.chunk.css.map",
+    "static/js/2.008b20e3.chunk.js.LICENSE.txt": "/ReactBlogHooks/static/js/2.008b20e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ad3799d.js",
+    "static/js/2.008b20e3.chunk.js",
+    "static/css/main.2668b83c.chunk.css",
+    "static/js/main.57561db5.chunk.js"
+  ]
+}
